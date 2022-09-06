@@ -2,8 +2,6 @@
 
 <!-- <img src="assets/apwebstore5.gif" style="border-radius: 5px; margin-bottom: 10px"> -->
 
-### Hi there 👋
-
 <!-- **ArnaudAploon/ArnaudAploon** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile. save me-->
 
 - 🔭 I’m currently working on myself
